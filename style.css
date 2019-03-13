@@ -1,0 +1,38 @@
+h1{
+	color: #D46A6A;
+	background-position: center;
+	transition:transform 2s;
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	margin-top: 140px;
+
+}
+
+h1:hover{
+	transform: scale(1.1) translate(50px);
+}
+
+body.startup {
+  background-position: center;
+  background-image: url("pink-cute.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+
+hr {
+  max-width: 300px;
+  border-width: 2px;
+  border-color: #F05F44; 
+}
+
+
+.btn{
+	color: red;
+   	background-color: pink;
+		
+}
+
+
